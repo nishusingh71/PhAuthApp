@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979093066652",
+    "project_id": "phoneauth-89f02",
+    "storage_bucket": "phoneauth-89f02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979093066652:android:a41e36088206f7dc57ae59",
+        "android_client_info": {
+          "package_name": "com.example.phauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979093066652-fv7ajsgjdln4df2i046pbp737vhp81v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPpUR7ONVHa-634lSMrwhmUibad-S1Pgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979093066652-fv7ajsgjdln4df2i046pbp737vhp81v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
